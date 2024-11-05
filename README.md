@@ -12,7 +12,6 @@ This web application, built with Streamlit, predicts the likelihood of three dis
 - [Project Structure](#project-structure)
 - [How to Use](#how-to-use)
 - [Model Information](#model-information)
-- [License](#license)
 
 ## Overview
 
