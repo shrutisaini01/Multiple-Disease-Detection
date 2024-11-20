@@ -1,5 +1,6 @@
 
 # Multiple Disease Prediction System
+website link: https://prediction-app-shruti.streamlit.app/
 
 This web application, built with Streamlit, predicts the likelihood of three diseases: **Diabetes**, **Heart Disease**, and **Parkinson's Disease**. Each prediction is powered by a separate machine learning model trained specifically for that condition, and the models are stored as `.sav` files.
 
